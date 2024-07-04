@@ -1,0 +1,554 @@
+VIAGEM,SAÍDA,ORIGEM,DESTINO
+1,12,Campus Praia Vermelha,Campus Gragoatá
+2,16,Campus Gragoatá,Campus Praia Vermelha
+3,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+4,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+5,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+6,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+7,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+8,12,Campus Praia Vermelha,Campus Gragoatá
+9,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+10,12,Campus Gragoatá,Campus Praia Vermelha
+11,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+12,12,Campus Gragoatá,Campus Praia Vermelha
+13,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+14,16,Campus Gragoatá,Campus Gragoatá
+15,18,Campus Gragoatá,IACS
+16,20,Campus Gragoatá,Campus Gragoatá
+17,10,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+18,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+19,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+20,Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+21,16,Centro (Terminal rodoviário/Barcas),Reitoria
+22,12,Campus Praia Vermelha,Campus Gragoatá
+23,12,Campus Praia Vermelha,Campus Gragoatá
+24,06,Campus Praia Vermelha,Campus Valonguinho
+25,12,Campus Valonguinho,Campus Praia Vermelha
+26,16,Campus Praia Vermelha,Faculdade de Veterinária
+27,14,Campus Gragoatá,Campus Valonguinho
+28,16,Reitoria,Campus Gragoatá
+29,Depois das 22:00,Campus Gragoatá,Reitoria
+30,20,Campus Gragoatá,Faculdade de Direito
+31,18,Faculdade de Direito,Reitoria
+32,10,Campus Praia Vermelha,Campus Gragoatá
+33,14,Campus Gragoatá,Campus Praia Vermelha
+34,08,Campus Gragoatá,Campus Valonguinho
+35,10,Campus Gragoatá,Campus Praia Vermelha
+36,12,Campus Praia Vermelha,Campus Gragoatá
+37,18,Campus Praia Vermelha,Faculdade de Direito
+38,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+39,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+40,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+41,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+42,18,Campus Praia Vermelha,Campus Praia Vermelha
+43,Depois das 22:00,Campus Praia Vermelha,Campus Valonguinho
+44,Depois das 22:00,Campus Praia Vermelha,Campus Valonguinho
+45,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+46,12,Campus Valonguinho,Faculdade de Farmácia
+47,16,Faculdade de Farmácia,Instituto Biomédico
+48,06,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+49,12,Campus Gragoatá,Campus Gragoatá
+50,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+51,08,Faculdade de Enfermagem,Reitoria
+52,16,Reitoria,Reitoria
+53,16,Reitoria,Campus Gragoatá
+54,20,Campus Gragoatá,Reitoria
+55,06,Campus Valonguinho,Faculdade de Veterinária
+56,12,Faculdade de Veterinária,Campus Valonguinho
+57,14,Campus Valonguinho,Campus Gragoatá
+58,16,Campus Gragoatá,Campus Valonguinho
+59,12,HU Antônio Pedro,Faculdade de Enfermagem
+60,12,Faculdade de Enfermagem,Campus Gragoatá
+61,14,Faculdade de Enfermagem,Reitoria
+62,14,Reitoria,Campus Gragoatá
+63,12,Campus Valonguinho,Campus Gragoatá
+64,08,Reitoria,Campus Gragoatá
+65,18,Campus Gragoatá,Reitoria
+66,08,Reitoria,Campus Gragoatá
+67,18,Campus Gragoatá,Reitoria
+68,06,Faculdade de Direito,Campus Gragoatá
+69,12,Campus Gragoatá,Reitoria
+70,16,Reitoria,Faculdade de Direito
+71,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+72,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+73,08,Reitoria,Campus Praia Vermelha
+74,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+75,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+76,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+77,12,Campus Valonguinho,Campus Gragoatá
+78,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+79,12,Campus Gragoatá,Faculdade de Farmácia
+80,10,IACS,Campus Gragoatá
+81,10,Centro (Terminal rodoviário/Barcas),Reitoria
+82,16,Reitoria,Campus Gragoatá
+83,14,Campus Valonguinho,Campus Gragoatá
+84,16,Campus Praia Vermelha,Campus Gragoatá
+85,18,Centro (Terminal rodoviário/Barcas),Reitoria
+86,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+87,14,Campus Praia Vermelha,Campus Gragoatá
+88,08,Faculdade de Veterinária,HU Antônio Pedro
+89,16,HU Antônio Pedro,Faculdade de Veterinária
+90,14,HU Antônio Pedro,Reitoria
+91,08,Reitoria,HU Medicina Veterinária
+92,12,Faculdade de Veterinária,Campus Gragoatá
+93,20,Campus Gragoatá,Faculdade de Veterinária
+94,06,Campus Gragoatá,Campus Valonguinho
+95,12,Campus Valonguinho,Campus Gragoatá
+96,16,Campus Valonguinho,Campus Gragoatá
+97,10,Faculdade de Veterinária,Reitoria
+98,12,Campus Praia Vermelha,Campus Gragoatá
+99,10,Faculdade de Veterinária,Campus Valonguinho
+100,16,Campus Valonguinho,Faculdade de Veterinária
+101,12,Campus Valonguinho,Campus Gragoatá
+102,06,Faculdade de Veterinária,Campus Valonguinho
+103,08,Faculdade de Veterinária,Campus Gragoatá
+104,06,Campus Praia Vermelha,Campus Valonguinho
+105,12,Campus Valonguinho,Campus Praia Vermelha
+106,12,Campus Valonguinho,Reitoria
+107,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+108,08,Centro (Terminal rodoviário/Barcas),Reitoria
+109,12,Campus Valonguinho,Reitoria
+110,18,Reitoria,Centro (Terminal rodoviário/Barcas)
+111,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+112,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+113,14,Campus Gragoatá,Campus Valonguinho
+114,16,Reitoria,Campus Gragoatá
+115,06,Campus Praia Vermelha,Campus Valonguinho
+116,08,Campus Valonguinho,Campus Gragoatá
+117,12,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+118,14,Centro (Terminal rodoviário/Barcas),Campus Valonguinho
+119,08,HU Antônio Pedro,Campus Valonguinho
+120,12,Faculdade de Direito,Centro (Terminal rodoviário/Barcas)
+121,06,Campus Gragoatá,Reitoria
+122,18,Campus Valonguinho,Campus Gragoatá
+123,18,Campus Gragoatá,Campus Valonguinho
+124,10,Campus Praia Vermelha,Faculdade de Farmácia
+125,10,Campus Praia Vermelha,Faculdade de Farmácia
+126,10,Campus Praia Vermelha,Faculdade de Farmácia
+127,10,Campus Praia Vermelha,Faculdade de Farmácia
+128,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+129,06,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+130,08,Campus Gragoatá,Campus Gragoatá
+131,08,Campus Gragoatá,IACS
+132,14,Campus Gragoatá,IACS
+133,16,Campus Gragoatá,IACS
+134,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+135,Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+136,12,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+137,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+138,20,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+139,20,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+140,12,Campus Gragoatá,Campus Valonguinho
+141,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+142,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+143,14,Centro (Terminal rodoviário/Barcas),Faculdade de Direito
+144,16,Faculdade de Veterinária,Centro (Terminal rodoviário/Barcas)
+145,14,Campus Gragoatá,Campus Gragoatá
+146,20,Campus Gragoatá,Campus Gragoatá
+147,20,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+148,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+149,06,Campus Gragoatá,Campus Gragoatá
+150,18,Instituto Biomédico,Centro (Terminal rodoviário/Barcas)
+151,Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+152,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+153,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+154,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+155,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+156,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+157,Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+158,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+159,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+160,06,Campus Gragoatá,Instituto Biomédico
+161,18,Faculdade de Direito,Campus Gragoatá
+162,14,Campus Gragoatá,HU Antônio Pedro
+163,10,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+164,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+165,20,Campus Gragoatá,Faculdade de Farmácia
+166,20,Campus Gragoatá,Campus Valonguinho
+167,16,Campus Valonguinho,Campus Gragoatá
+168,Depois das 22:00,Campus Gragoatá,Campus Valonguinho
+169,08,Campus Gragoatá,Campus Praia Vermelha
+170,14,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas)
+171,Depois das 22:00,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas)
+172,12,Campus Gragoatá,Faculdade de Enfermagem
+173,12,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro
+174,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+175,10,Faculdade de Veterinária,Campus Valonguinho
+176,16,Campus Valonguinho,Faculdade de Veterinária
+177,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+178,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+179,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+180,12,Campus Gragoatá,Campus Gragoatá
+181,18,Campus Gragoatá,Campus Gragoatá
+182,20,Campus Gragoatá,Campus Gragoatá
+183,20,Campus Gragoatá,Campus Gragoatá
+184,08,Campus Praia Vermelha,Campus Gragoatá
+185,14,Campus Gragoatá,Faculdade de Direito
+186,12,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro
+187,16,HU Antônio Pedro,Campus Gragoatá
+188,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+189,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+190,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+191,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+192,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+193,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+194,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+195,12,Campus Gragoatá,Campus Gragoatá
+196,Depois das 22:00,Campus Gragoatá,Campus Gragoatá
+197,14,Campus Gragoatá,Campus Valonguinho
+198,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+199,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+200,16,Campus Gragoatá,IACS
+201,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+202,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+203,14,HU Antônio Pedro,Campus Gragoatá
+204,18,HU Antônio Pedro,Campus Gragoatá
+205,18,Faculdade de Veterinária,Campus Gragoatá
+206,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+207,12,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+208,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+209,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+210,06,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+211,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+212,16,Campus Praia Vermelha,Campus Gragoatá
+213,14,Campus Gragoatá,Campus Gragoatá
+214,16,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas)
+215,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+216,18,Campus Gragoatá,Campus Gragoatá
+217,06,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+218,12,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+219,20,Campus Gragoatá,Campus Praia Vermelha
+220,20,Campus Gragoatá,HU Antônio Pedro
+221,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+222,20,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+223,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+224,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+225,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+226,14,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+227,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+228,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+229,10,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro
+230,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+231,14,Centro (Terminal rodoviário/Barcas),Reitoria
+232,06,Centro (Terminal rodoviário/Barcas),Reitoria
+233,16,Reitoria,Campus Gragoatá
+234,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+235,12,HU Antônio Pedro,Campus Gragoatá
+236,16,HU Antônio Pedro,Campus Gragoatá
+237,14,Campus Gragoatá,HU Antônio Pedro
+238,16,Campus Gragoatá,HU Antônio Pedro
+239,12,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+240,16,Campus Gragoatá,Faculdade de Direito
+241,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+242,08,Centro (Terminal rodoviário/Barcas),Reitoria
+243,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+244,16,Reitoria,Centro (Terminal rodoviário/Barcas)
+245,14,Faculdade de Veterinária,Campus Gragoatá
+246,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+247,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+248,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+249,12,Campus Praia Vermelha,Campus Gragoatá
+250,14,Campus Praia Vermelha,Reitoria
+251,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+252,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+253,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+254,14,Campus Gragoatá,Faculdade de Veterinária
+255,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+256,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+257,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+258,06,IACS,Campus Gragoatá
+259,12,Campus Gragoatá,IACS
+260,16,Campus Gragoatá,Campus Praia Vermelha
+261,20,Campus Gragoatá,IACS
+262,16,Campus Gragoatá,Campus Valonguinho
+263,14,Faculdade de Veterinária,Campus Gragoatá
+264,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+265,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+266,12,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+267,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+268,20,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+269,12,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+270,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+271,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+272,12,Campus Praia Vermelha,Campus Valonguinho
+273,08,Reitoria,Campus Praia Vermelha
+274,12,Campus Praia Vermelha,Campus Valonguinho
+275,16,Campus Valonguinho,Reitoria
+276,18,Reitoria,Reitoria
+277,14,Campus Praia Vermelha,Campus Gragoatá
+278,16,Campus Gragoatá,Campus Praia Vermelha
+279,06,Campus Praia Vermelha,Faculdade de Direito
+280,08,Campus Gragoatá,Faculdade de Direito
+281,16,Faculdade de Direito,Reitoria
+282,20,Reitoria,Faculdade de Direito
+283,18,Reitoria,Campus Praia Vermelha
+284,Depois das 22:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+285,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+286,16,Campus Gragoatá,Campus Gragoatá
+287,16,Campus Gragoatá,Campus Valonguinho
+288,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+289,12,Campus Praia Vermelha,Campus Gragoatá
+290,12,Campus Gragoatá,Campus Praia Vermelha
+291,06,Campus Valonguinho,Campus Praia Vermelha
+292,16,Campus Praia Vermelha,Campus Valonguinho
+293,12,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+294,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+295,12,Reitoria,Campus Praia Vermelha
+296,16,Campus Praia Vermelha,Reitoria
+297,12,Campus Praia Vermelha,Campus Gragoatá
+298,14,Campus Gragoatá,Campus Valonguinho
+299,16,Campus Valonguinho,Campus Praia Vermelha
+300,18,Campus Praia Vermelha,Campus Gragoatá
+301,08,Campus Praia Vermelha,Campus Praia Vermelha
+302,14,Campus Gragoatá,Campus Gragoatá
+303,16,Campus Praia Vermelha,Campus Gragoatá
+304,14,Campus Gragoatá,Campus Praia Vermelha
+305,20,Campus Praia Vermelha,Campus Gragoatá
+306,18,Campus Gragoatá,Campus Praia Vermelha
+307,08,Campus Praia Vermelha,Campus Valonguinho
+308,12,Campus Praia Vermelha,Campus Valonguinho
+309,14,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+310,12,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+311,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+312,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+313,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+314,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+315,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+316,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+317,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+318,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+319,08,Campus Praia Vermelha,Campus Gragoatá
+320,12,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+321,08,Campus Gragoatá,Campus Praia Vermelha
+322,12,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+323,08,Campus Valonguinho,Campus Praia Vermelha
+324,12,Campus Praia Vermelha,Campus Valonguinho
+325,12,Campus Valonguinho,Campus Praia Vermelha
+326,Depois das 22:00,Campus Praia Vermelha,Campus Valonguinho
+327,08,Campus Praia Vermelha,Campus Valonguinho
+328,16,Campus Valonguinho,Campus Praia Vermelha
+329,06,Centro (Terminal rodoviário/Barcas),Campus Valonguinho
+330,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+331,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+332,16,Campus Praia Vermelha,Campus Gragoatá
+333,16,Campus Gragoatá,Campus Praia Vermelha
+334,12,Campus Praia Vermelha,Campus Gragoatá
+335,14,Campus Praia Vermelha,Campus Gragoatá
+336,06,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+337,10,Campus Gragoatá,Campus Praia Vermelha
+338,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+339,12,Campus Praia Vermelha,Campus Gragoatá
+340,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+341,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+342,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+343,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+344,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+345,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+346,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+347,16,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+348,20,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+349,18,Campus Gragoatá,Campus Valonguinho
+350,10,Reitoria,Campus Praia Vermelha
+351,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+352,16,Campus Praia Vermelha,Campus Gragoatá
+353,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+354,08,Faculdade de Direito,Campus Praia Vermelha
+355,16,Campus Praia Vermelha,Faculdade de Direito
+356,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+357,16,Campus Praia Vermelha,Reitoria
+358,18,Campus Praia Vermelha,Reitoria
+359,20,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+360,12,Campus Praia Vermelha,Reitoria
+361,16,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+362,06,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+363,12,Campus Praia Vermelha,Campus Gragoatá
+364,14,Campus Gragoatá,Campus Praia Vermelha
+365,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+366,12,Campus Gragoatá,Reitoria
+367,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+368,08,Campus Praia Vermelha,Campus Valonguinho
+369,14,Campus Valonguinho,Campus Praia Vermelha
+370,16,Campus Praia Vermelha,Campus Gragoatá
+371,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+372,08,Campus Gragoatá,Campus Gragoatá
+373,14,Campus Gragoatá,Campus Gragoatá
+374,18,Reitoria,Reitoria
+375,20,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas)
+376,10,Campus Gragoatá,Campus Valonguinho
+377,20,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+378,10,Centro (Terminal rodoviário/Barcas),Campus Valonguinho
+379,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+380,18,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+381,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+382,12,Campus Gragoatá,Campus Praia Vermelha
+383,12,Campus Gragoatá,Campus Valonguinho
+384,16,Campus Valonguinho,Campus Gragoatá
+385,10,Campus Valonguinho,HU Antônio Pedro
+386,08,Campus Valonguinho,HU Antônio Pedro
+387,14,HU Antônio Pedro,Campus Praia Vermelha
+388,06,Reitoria,HU Antônio Pedro
+389,12,HU Antônio Pedro,Reitoria
+390,12,Reitoria,HU Antônio Pedro
+391,16,HU Antônio Pedro,Reitoria
+392,12,Instituto Biomédico,Campus Gragoatá
+393,12,Instituto Biomédico,HU Antônio Pedro
+394,12,Campus Gragoatá,HU Antônio Pedro
+395,06,Instituto Biomédico,HU Antônio Pedro
+396,06,Instituto Biomédico,HU Antônio Pedro
+397,06,Faculdade de Direito,HU Antônio Pedro
+398,16,HU Antônio Pedro,Faculdade de Direito
+399,12,HU Antônio Pedro,Campus Gragoatá
+400,10,Campus Gragoatá,HU Antônio Pedro
+401,12,HU Antônio Pedro,Campus Gragoatá
+402,12,HU Antônio Pedro,Campus Gragoatá
+403,06,Reitoria,Instituto Biomédico
+404,12,Instituto Biomédico,Reitoria
+405,14,Reitoria,HU Antônio Pedro
+406,18,HU Antônio Pedro,Reitoria
+407,18,HU Antônio Pedro,Campus Valonguinho
+408,12,HU Antônio Pedro,Centro (Terminal rodoviário/Barcas)
+409,06,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+410,12,HU Antônio Pedro,Campus Gragoatá
+411,10,Campus Gragoatá,HU Antônio Pedro
+412,06,Campus Gragoatá,HU Antônio Pedro
+413,12,HU Antônio Pedro,Campus Valonguinho
+414,18,Campus Valonguinho,Campus Gragoatá
+415,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+416,08,Campus Gragoatá,Campus Valonguinho
+417,08,Campus Gragoatá,Campus Valonguinho
+418,10,Campus Gragoatá,HU Antônio Pedro
+419,12,Campus Valonguinho,Campus Gragoatá
+420,18,Campus Valonguinho,HU Antônio Pedro
+421,12,HU Antônio Pedro,Campus Gragoatá
+422,12,Campus Gragoatá,HU Antônio Pedro
+423,18,HU Antônio Pedro,Campus Valonguinho
+424,12,Campus Gragoatá,HU Antônio Pedro
+425,06,Campus Valonguinho,Reitoria
+426,10,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+427,16,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+428,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+429,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+430,06,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro
+431,12,HU Antônio Pedro,Centro (Terminal rodoviário/Barcas)
+432,14,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro
+433,18,HU Antônio Pedro,Centro (Terminal rodoviário/Barcas)
+434,18,Campus Gragoatá,Campus Gragoatá
+435,18,Campus Gragoatá,Campus Praia Vermelha
+436,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+437,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+438,10,Campus Gragoatá,Reitoria
+439,10,Reitoria,Campus Gragoatá
+440,12,Campus Gragoatá,HU Antônio Pedro
+441,12,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+442,18,Campus Praia Vermelha,Campus Gragoatá
+443,14,Faculdade de Veterinária,Campus Gragoatá
+444,08,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+445,06,Instituto Biomédico,HU Antônio Pedro
+446,16,HU Antônio Pedro,Instituto Biomédico
+447,12,Centro (Terminal rodoviário/Barcas),Campus Valonguinho
+448,12,Campus Valonguinho,Campus Gragoatá
+449,16,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+450,Depois das 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+451,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+452,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+453,08,Campus Praia Vermelha,Campus Gragoatá
+454,12,Campus Gragoatá,Campus Praia Vermelha
+455,12,HU Antônio Pedro,Instituto Biomédico
+456,10,Reitoria,Instituto Biomédico
+457,16,Instituto Biomédico,Reitoria
+458,06,HU Antônio Pedro,Instituto Biomédico
+459,18,Campus Valonguinho,HU Antônio Pedro
+460,06,Instituto Biomédico,HU Antônio Pedro
+461,16,HU Antônio Pedro,Instituto Biomédico
+462,12,HU Antônio Pedro,Instituto Biomédico
+463,18,HU Antônio Pedro,Campus Gragoatá
+464,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+465,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+466,10,Campus Gragoatá,HU Antônio Pedro
+467,10,Campus Gragoatá,Instituto Biomédico
+468,12,Campus Valonguinho,Campus Gragoatá
+469,06,Faculdade de Direito,HU Antônio Pedro
+470,12,HU Antônio Pedro,Faculdade de Direito
+471,16,HU Antônio Pedro,Faculdade de Direito
+472,12,Faculdade de Direito,HU Antônio Pedro
+473,06,Reitoria,Campus Gragoatá
+474,10,Campus Gragoatá,Reitoria
+475,14,Reitoria,HU Antônio Pedro
+476,18,HU Antônio Pedro,Reitoria
+477,06,Instituto Biomédico,Campus Valonguinho
+478,08,Faculdade de Direito,HU Antônio Pedro
+479,06,Reitoria,Campus Valonguinho
+480,12,Campus Valonguinho,Reitoria
+481,14,Reitoria,Campus Gragoatá
+482,18,Instituto Biomédico,Reitoria
+483,06,HU Antônio Pedro,Campus Gragoatá
+484,18,Campus Gragoatá,HU Antônio Pedro
+485,16,Campus Gragoatá,HU Antônio Pedro
+486,10,Faculdade de Veterinária,Campus Gragoatá
+487,18,Campus Gragoatá,Faculdade de Veterinária
+488,06,Faculdade de Direito,Instituto Biomédico
+489,12,Faculdade de Direito,HU Antônio Pedro
+490,20,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+491,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+492,20,Centro (Terminal rodoviário/Barcas),Campus Valonguinho
+493,08,Campus Valonguinho,Campus Praia Vermelha
+494,16,Campus Praia Vermelha,Reitoria
+495,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+496,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+497,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+498,12,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+499,18,Campus Gragoatá,IACS
+500,18,Campus Gragoatá,IACS
+501,12,Campus Gragoatá,Campus Praia Vermelha
+502,16,Campus Praia Vermelha,Campus Gragoatá
+503,06,Campus Gragoatá,Campus Gragoatá
+504,16,Campus Gragoatá,Campus Gragoatá
+505,20,Campus Gragoatá,Campus Gragoatá
+506,14,Campus Gragoatá,HU Antônio Pedro
+507,12,Campus Valonguinho,HU Antônio Pedro
+508,12,HU Antônio Pedro,Campus Valonguinho
+509,08,Campus Praia Vermelha,Campus Valonguinho
+510,14,Campus Valonguinho,Campus Valonguinho
+511,16,Campus Praia Vermelha,Campus Valonguinho
+512,20,Campus Valonguinho,Campus Praia Vermelha
+513,12,Faculdade de Direito,Campus Gragoatá
+514,20,Campus Gragoatá,Faculdade de Direito
+515,08,Campus Gragoatá,Campus Praia Vermelha
+516,08,Campus Gragoatá,Campus Praia Vermelha
+517,08,Campus Gragoatá,Campus Praia Vermelha
+518,08,Campus Gragoatá,Campus Praia Vermelha
+519,10,Campus Praia Vermelha,Campus Gragoatá
+520,08,Campus Praia Vermelha,Campus Valonguinho
+521,16,Campus Valonguinho,Faculdade de Direito
+522,20,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+523,12,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+524,20,IACS,Centro (Terminal rodoviário/Barcas)
+525,08,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+526,08,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+527,18,Campus Gragoatá,Reitoria
+528,16,Centro (Terminal rodoviário/Barcas),IACS
+529,18,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+530,14,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+531,20,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+532,06,Campus Valonguinho,Campus Praia Vermelha
+533,16,Campus Praia Vermelha,Campus Valonguinho
+534,08,HU Antônio Pedro,Campus Praia Vermelha
+535,18,HU Antônio Pedro,Campus Praia Vermelha
+536,10,HU Antônio Pedro,Campus Praia Vermelha
+537,10,Campus Praia Vermelha,Reitoria
+538,08,HU Antônio Pedro,IACS
+539,20,IACS,HU Antônio Pedro
+540,08,Centro (Terminal rodoviário/Barcas),IACS
+541,20,IACS,Centro (Terminal rodoviário/Barcas)
+542,08,Campus Valonguinho,Campus Praia Vermelha
+543,16,Campus Praia Vermelha,Campus Valonguinho
+544,20,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+545,20,Campus Valonguinho,Centro (Terminal rodoviário/Barcas)
+546,20,IACS,Centro (Terminal rodoviário/Barcas)
+547,20,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+548,08,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+549,10,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+550,16,Campus Praia Vermelha,Campus Gragoatá
+551,18,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+552,14,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+553,18,Centro (Terminal rodoviário/Barcas),IACS

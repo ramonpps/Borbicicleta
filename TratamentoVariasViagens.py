@@ -21,7 +21,7 @@ class DataCleaner:
         colunas_validas = [col for col in self.df.columns if DataCleaner.comeca_com_numero(col)]
         self.df = self.df[colunas_validas]
 
-    def salvar_csv_tratado(self, output_path='outputs\Mobilidade_Elétrica_Niterói_Filtrado_Viagens.csv'):
+    def salvar_csv_tratado(self, output_path='outputs\Mobilidade_Elétrica_Niterói_Filtrado_Viagens_Variadas.csv'):
         self.df.to_csv(output_path, index=False)
 
 class DataFormatter:
@@ -45,7 +45,7 @@ class DataFormatter:
         novo_df.insert(0, 'VIAGEM', range(1, len(novo_df) + 1))
         return novo_df
 
-    def salvar_csv_formatado(self, output_path='outputs\Relação_de_Viagens.csv'):
+    def salvar_csv_formatado(self, output_path='outputs\Relação_de_Viagens_Variadas.csv'):
         novo_df = self.criar_novo_dataframe()
         novo_df.to_csv(output_path, index=False)
 
@@ -56,7 +56,7 @@ class DataProcessor:
         cleaner.selecionar_colunas_validas()
         cleaner.salvar_csv_tratado()
 
-        formatter = DataFormatter('outputs\Mobilidade_Elétrica_Niterói_Filtrado_Viagens.csv')
+        formatter = DataFormatter('outputs\Mobilidade_Elétrica_Niterói_Filtrado_Viagens_Variadas.csv')
         formatter.formatar_dados()
         formatter.salvar_csv_formatado()
 

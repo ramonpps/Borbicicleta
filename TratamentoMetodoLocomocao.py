@@ -6,7 +6,7 @@ colunas_interessantes = [
     if 'Como você se locomove entre os campi?' in col
 ]
 df_filtrado = df[colunas_interessantes]
-df_filtrado.to_csv("outputs/Mobilidade_Eletrica_Niterói_Filtrado_Locomocao.csv", index=False)
+df_filtrado.to_csv("outputs/Mobilidade_Eletrica_Niterói_Filtrado_Metodos.csv", index=False)
 
 
 import pandas as pd
@@ -42,8 +42,8 @@ class CSVProcessor:
         self.transform_data()
 
 if __name__ == "__main__":
-    input_file = 'outputs/Mobilidade_Eletrica_Niterói_Filtrado_Locomocao.csv'
-    output_file = 'outputs/Relação_de_Locomoção.csv'
+    input_file = 'outputs/Mobilidade_Eletrica_Niterói_Filtrado_Metodos.csv'
+    output_file = 'outputs/Relação_de_Metodos.csv'
     
     processor = CSVProcessor(input_file, output_file)
     processor.process()

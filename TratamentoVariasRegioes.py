@@ -45,8 +45,8 @@ class CSVProcessor:
 
 if __name__ == "__main__":
     input_file = 'inputs/Mobilidade Elétrica Niterói.csv'
-    output_file_filtered = 'outputs/Mobilidade_Elétrica_Niterói_Filtrado_Regioes.csv'
-    output_file_final = 'outputs/Relação_de_Regiões.csv'
+    output_file_filtered = 'outputs/Mobilidade_Elétrica_Niterói_Filtrado_Regioes_Variadas.csv'
+    output_file_final = 'outputs/Relação_de_Regiões_Variadas.csv'
     
     processor = CSVProcessor(input_file, output_file_filtered, output_file_final)
     processor.process()

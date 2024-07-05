@@ -1,0 +1,389 @@
+1.1.1 Em qual intervalo de horário você utilizaria o sistema de bicicletas elétricas compartilhadas na sua viagem típica?,"1.1.2 Qual o campus de origem da sua viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","1.1.3 Qual o campus de destino da sua viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",2.1.1 Em qual intervalo de horário você utilizaria o sistema de bicicletas elétricas compartilhadas na sua primeira viagem típica?,"2.1.2 Qual o campus de origem da sua primeira viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","2.1.3 Qual o campus de destino da sua primeira viagem típica? 
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",2.2.1 Em qual intervalo de horário você utilizaria o sistema de compartilhamento de bicicletas elétricas compartilhadas na sua segunda viagem típica? ,"2.2.2 Qual o campus de origem da sua segunda viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","2.2.3 Qual o campus de destino da sua segunda viagem típica? 
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",3.1.1 Em qual intervalo de horário você utilizaria o sistema de bicicletas elétricas compartilhadas na sua primeira viagem típica?,"3.1.2 Qual o campus de origem da sua primeira viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","3.1.3 Qual o campus de destino da sua primeira viagem típica? 
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",3.2.1  Em qual intervalo de horário você utilizaria o sistema de bicicletas elétricas compartilhadas na sua segunda viagem típica?,"3.2.2 Qual o campus de origem da sua segunda viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","3.2.3 Qual o campus de destino da sua segunda viagem típica? 
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",3.3.1  Em qual intervalo de horário você utilizaria o sistema de compartilhamento de bicicletas elétricas compartilhadas na sua terceira viagem típica?,"3.3.2 Qual o campus de origem da sua terceira viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","3.3.3 Qual o campus de destino da sua terceira viagem típica? 
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",4.1.1 Em qual intervalo de horário você utilizaria o sistema de compartilhamento de bicicletas elétricas compartilhadas na sua primeira viagem típica?,"4.1.2 Qual o campus de origem da sua primeira viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","4.1.3 Qual o campus de destino da sua primeira viagem típica? 
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",4.2.1 Em qual intervalo de horário você utilizaria o sistema de compartilhamento de bicicletas elétricas compartilhadas na sua segunda viagem típica?,"4.2.2 Qual o campus de origem da sua segunda viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","4.2.3 Qual o campus de destino da sua segunda viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",4.3.1 Em qual intervalo de horário você utilizaria o sistema de compartilhamento de bicicletas elétricas compartilhadas na sua terceira viagem típica?,"4.3.2 Qual o seu campus de origem na sua terceira viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","4.3.3 Qual o seu campus de destino na sua terceira viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ",4.4.1  Em qual intervalo de horário você utilizaria o sistema de compartilhamento de bicicletas elétricas compartilhadas na sua quarta viagem típica?,"4.4.2 Qual o campus de origem da sua quarta viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! ","4.4.3 Qual o campus de destino da sua quarta viagem típica?
+
+Observação:  Selecionar o mesmo campus na origem e no destino significa que sua circulação se dá apenas dentro do Campus! "
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,Campus Gragoatá,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),12:00 - 14:00,Campus Gragoatá,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,16:00 - 18:00,Campus Gragoatá,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,IACS,20:00 - 22:00,Campus Gragoatá,Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:00 - 12:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Reitoria
+,,,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Campus Praia Vermelha,Campus Valonguinho,12:00 - 14:00,Campus Valonguinho,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+16:00 - 18:00,Campus Praia Vermelha,Faculdade de Veterinária,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14:00 - 16:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,16:00 - 18:00,Reitoria,Campus Gragoatá,Depois das 22:00,Campus Gragoatá,Reitoria,20:00 - 22:00,Campus Gragoatá,Faculdade de Direito,18:00 - 20:00,Faculdade de Direito,Reitoria
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,10:00 - 12:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08:00 - 10:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,10:00 - 12:00,Campus Gragoatá,Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Campus Praia Vermelha,Faculdade de Direito,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18:00 - 20:00,Campus Praia Vermelha,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Depois das 22:00,Campus Praia Vermelha,Campus Valonguinho,Depois das 22:00,Campus Praia Vermelha,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,
+16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Campus Valonguinho,Faculdade de Farmácia,16:00 - 18:00,Faculdade de Farmácia,Instituto Biomédico,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Faculdade de Enfermagem,Reitoria,16:00 - 18:00,Reitoria,Reitoria,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Reitoria,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Reitoria,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Campus Valonguinho,Faculdade de Veterinária,12:00 - 14:00,Faculdade de Veterinária,Campus Valonguinho,14:00 - 16:00,Campus Valonguinho,Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Campus Valonguinho
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,HU Antônio Pedro,Faculdade de Enfermagem,12:00 - 14:00,Faculdade de Enfermagem,Campus Gragoatá,14:00 - 16:00,Faculdade de Enfermagem,Reitoria,14:00 - 16:00,Reitoria,Campus Gragoatá
+12:00 - 14:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Reitoria,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Reitoria,08:00 - 10:00,Reitoria,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Reitoria
+,,,,,,,,,06:00 - 08:00,Faculdade de Direito,Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Reitoria,16:00 - 18:00,Reitoria,Faculdade de Direito,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),08:00 - 10:00,Reitoria,Campus Praia Vermelha,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),12:00 - 14:00,Campus Valonguinho,Campus Gragoatá
+,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Faculdade de Farmácia,,,,,,,,,,,,,,,,,,,,,
+10:00 - 12:00,IACS,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Reitoria,16:00 - 18:00,Reitoria,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+14:00 - 16:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Reitoria,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,14:00 - 16:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Faculdade de Veterinária,HU Antônio Pedro,16:00 - 18:00,HU Antônio Pedro,Faculdade de Veterinária,14:00 - 16:00,HU Antônio Pedro,Reitoria,,,,,,,,,,,,
+08:00 - 10:00,Reitoria,HU Medicina Veterinária,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Faculdade de Veterinária,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Faculdade de Veterinária,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Campus Gragoatá,Campus Valonguinho,12:00 - 14:00,Campus Valonguinho,Campus Gragoatá,16:00 - 18:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,
+10:00 - 12:00,Faculdade de Veterinária,Reitoria,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,10:00 - 12:00,Faculdade de Veterinária,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Faculdade de Veterinária,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Faculdade de Veterinária,Campus Valonguinho,08:00 - 10:00,Faculdade de Veterinária,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Campus Praia Vermelha,Campus Valonguinho,12:00 - 14:00,Campus Valonguinho,Campus Praia Vermelha,12:00 - 14:00,Campus Valonguinho,Reitoria,,,,,,,,,,,,
+12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Reitoria,12:00 - 14:00,Campus Valonguinho,Reitoria,18:00 - 20:00,Reitoria,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Campus Gragoatá,Campus Valonguinho,16:00 - 18:00,Reitoria,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Campus Praia Vermelha,Campus Valonguinho,08:00 - 10:00,Campus Valonguinho,Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Valonguinho
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08:00 - 10:00,HU Antônio Pedro,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Faculdade de Direito,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,,,,,,,
+06:00 - 08:00,Campus Gragoatá,Reitoria,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,18:00 - 20:00,Campus Valonguinho,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,10:00 - 12:00,Campus Praia Vermelha,Faculdade de Farmácia,10:00 - 12:00,Campus Praia Vermelha,Faculdade de Farmácia,10:00 - 12:00,Campus Praia Vermelha,Faculdade de Farmácia,10:00 - 12:00,Campus Praia Vermelha,Faculdade de Farmácia
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,08:00 - 10:00,Campus Gragoatá,Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Campus Gragoatá,IACS,14:00 - 16:00,Campus Gragoatá,IACS,16:00 - 18:00,Campus Gragoatá,IACS,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Faculdade de Direito,16:00 - 18:00,Faculdade de Veterinária,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,,,,,,,,,,14:00 - 16:00,Campus Gragoatá,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Campus Gragoatá,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,06:00 - 08:00,Campus Gragoatá,Campus Gragoatá,18:00 - 20:00,Instituto Biomédico,Centro (Terminal rodoviário/Barcas),Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,Depois das 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Campus Gragoatá,Instituto Biomédico,18:00 - 20:00,Faculdade de Direito,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),20:00 - 22:00,Campus Gragoatá,Faculdade de Farmácia,,,,,,,,,,,,
+20:00 - 22:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Campus Valonguinho,Campus Gragoatá,Depois das 22:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08:00 - 10:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas),Depois das 22:00,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,12:00 - 14:00,Campus Gragoatá,Faculdade de Enfermagem,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,
+,,,10:00 - 12:00,Faculdade de Veterinária,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Faculdade de Veterinária,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,Campus Gragoatá,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Campus Gragoatá
+,,,08:00 - 10:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Faculdade de Direito,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro,16:00 - 18:00,HU Antônio Pedro,Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,Campus Gragoatá,Campus Gragoatá,Depois das 22:00,Campus Gragoatá,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Campus Valonguinho,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,IACS,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,HU Antônio Pedro,Campus Gragoatá,18:00 - 20:00,HU Antônio Pedro,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+18:00 - 20:00,Faculdade de Veterinária,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Campus Gragoatá,Campus Gragoatá,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,20:00 - 22:00,Campus Gragoatá,Campus Praia Vermelha,20:00 - 22:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Reitoria
+,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Reitoria,16:00 - 18:00,Reitoria,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,HU Antônio Pedro,Campus Gragoatá,16:00 - 18:00,HU Antônio Pedro,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,HU Antônio Pedro,16:00 - 18:00,Campus Gragoatá,HU Antônio Pedro
+12:00 - 14:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,,,,,,,
+16:00 - 18:00,Campus Gragoatá,Faculdade de Direito,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Reitoria,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),16:00 - 18:00,Reitoria,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Faculdade de Veterinária,Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Praia Vermelha,Reitoria
+,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),14:00 - 16:00,Campus Gragoatá,Faculdade de Veterinária,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,IACS,Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,IACS,16:00 - 18:00,Campus Gragoatá,Campus Praia Vermelha,20:00 - 22:00,Campus Gragoatá,IACS
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16:00 - 18:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14:00 - 16:00,Faculdade de Veterinária,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,20:00 - 22:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Praia Vermelha,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Reitoria,Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Reitoria,18:00 - 20:00,Reitoria,Reitoria
+,,,14:00 - 16:00,Campus Praia Vermelha,Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Campus Praia Vermelha,Faculdade de Direito,08:00 - 10:00,Campus Gragoatá,Faculdade de Direito,16:00 - 18:00,Faculdade de Direito,Reitoria,20:00 - 22:00,Reitoria,Faculdade de Direito
+,,,,,,,,,18:00 - 20:00,Reitoria,Campus Praia Vermelha,Depois das 22:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+16:00 - 18:00,Campus Gragoatá,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Campus Gragoatá,Campus Valonguinho,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Campus Valonguinho,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Reitoria,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Reitoria,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Campus Praia Vermelha,,,,,,,,,,,,
+18:00 - 20:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Campus Praia Vermelha,Campus Praia Vermelha,14:00 - 16:00,Campus Gragoatá,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Campus Praia Vermelha,20:00 - 22:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Campus Praia Vermelha
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Campus Praia Vermelha,Campus Valonguinho,12:00 - 14:00,Campus Praia Vermelha,Campus Valonguinho,14:00 - 16:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Campus Praia Vermelha,Campus Gragoatá,12:00 - 14:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),08:00 - 10:00,Campus Gragoatá,Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Campus Valonguinho,Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Valonguinho,12:00 - 14:00,Campus Valonguinho,Campus Praia Vermelha,Depois das 22:00,Campus Praia Vermelha,Campus Valonguinho
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Campus Praia Vermelha,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Praia Vermelha,Campus Gragoatá
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,10:00 - 12:00,Campus Gragoatá,Campus Praia Vermelha,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha
+,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,20:00 - 22:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+18:00 - 20:00,Campus Gragoatá,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:00 - 12:00,Reitoria,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Faculdade de Direito,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Faculdade de Direito,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Reitoria
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,18:00 - 20:00,Campus Praia Vermelha,Reitoria,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Reitoria,16:00 - 18:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,12:00 - 14:00,Campus Praia Vermelha,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Campus Praia Vermelha,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+,,,12:00 - 14:00,Campus Gragoatá,Reitoria,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Campus Praia Vermelha,Campus Valonguinho,14:00 - 16:00,Campus Valonguinho,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Campus Gragoatá,Campus Gragoatá,14:00 - 16:00,Campus Gragoatá,Campus Gragoatá,18:00 - 20:00,Reitoria,Reitoria,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,10:00 - 12:00,Campus Gragoatá,Campus Valonguinho,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Valonguinho,,,,,,,,,,,,
+,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,18:00 - 20:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Campus Gragoatá,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,10:00 - 12:00,Campus Valonguinho,HU Antônio Pedro,08:00 - 10:00,Campus Valonguinho,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14:00 - 16:00,HU Antônio Pedro,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Reitoria,HU Antônio Pedro,12:00 - 14:00,HU Antônio Pedro,Reitoria,12:00 - 14:00,Reitoria,HU Antônio Pedro,16:00 - 18:00,HU Antônio Pedro,Reitoria
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,12:00 - 14:00,Instituto Biomédico,Campus Gragoatá,12:00 - 14:00,Instituto Biomédico,HU Antônio Pedro,12:00 - 14:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06:00 - 08:00,Instituto Biomédico,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06:00 - 08:00,Instituto Biomédico,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Faculdade de Direito,HU Antônio Pedro,16:00 - 18:00,HU Antônio Pedro,Faculdade de Direito,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,HU Antônio Pedro,Campus Gragoatá,10:00 - 12:00,Campus Gragoatá,HU Antônio Pedro,12:00 - 14:00,HU Antônio Pedro,Campus Gragoatá,12:00 - 14:00,HU Antônio Pedro,Campus Gragoatá
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Reitoria,Instituto Biomédico,12:00 - 14:00,Instituto Biomédico,Reitoria,14:00 - 16:00,Reitoria,HU Antônio Pedro,18:00 - 20:00,HU Antônio Pedro,Reitoria
+,,,18:00 - 20:00,HU Antônio Pedro,Campus Valonguinho,12:00 - 14:00,HU Antônio Pedro,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,HU Antônio Pedro,Campus Gragoatá,10:00 - 12:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Campus Gragoatá,HU Antônio Pedro,12:00 - 14:00,HU Antônio Pedro,Campus Valonguinho,18:00 - 20:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,
+18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Campus Gragoatá,Campus Valonguinho,08:00 - 10:00,Campus Gragoatá,Campus Valonguinho,10:00 - 12:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,
+12:00 - 14:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18:00 - 20:00,Campus Valonguinho,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,HU Antônio Pedro,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18:00 - 20:00,HU Antônio Pedro,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:00 - 14:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06:00 - 08:00,Campus Valonguinho,Reitoria,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro,12:00 - 14:00,HU Antônio Pedro,Centro (Terminal rodoviário/Barcas),14:00 - 16:00,Centro (Terminal rodoviário/Barcas),HU Antônio Pedro,18:00 - 20:00,HU Antônio Pedro,Centro (Terminal rodoviário/Barcas)
+,,,18:00 - 20:00,Campus Gragoatá,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),10:00 - 12:00,Campus Gragoatá,Reitoria,10:00 - 12:00,Reitoria,Campus Gragoatá
+12:00 - 14:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,18:00 - 20:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14:00 - 16:00,Faculdade de Veterinária,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08:00 - 10:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Instituto Biomédico,HU Antônio Pedro,16:00 - 18:00,HU Antônio Pedro,Instituto Biomédico,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Valonguinho,12:00 - 14:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,Depois das 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+,,,08:00 - 10:00,Campus Praia Vermelha,Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Campus Praia Vermelha,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,12:00 - 14:00,HU Antônio Pedro,Instituto Biomédico,10:00 - 12:00,Reitoria,Instituto Biomédico,16:00 - 18:00,Instituto Biomédico,Reitoria,,,,,,,,,,,,
+,,,06:00 - 08:00,HU Antônio Pedro,Instituto Biomédico,18:00 - 20:00,Campus Valonguinho,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Instituto Biomédico,HU Antônio Pedro,16:00 - 18:00,HU Antônio Pedro,Instituto Biomédico,12:00 - 14:00,HU Antônio Pedro,Instituto Biomédico,18:00 - 20:00,HU Antônio Pedro,Campus Gragoatá
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),10:00 - 12:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,
+,,,10:00 - 12:00,Campus Gragoatá,Instituto Biomédico,12:00 - 14:00,Campus Valonguinho,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Faculdade de Direito,HU Antônio Pedro,12:00 - 14:00,HU Antônio Pedro,Faculdade de Direito,16:00 - 18:00,HU Antônio Pedro,Faculdade de Direito,12:00 - 14:00,Faculdade de Direito,HU Antônio Pedro
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Reitoria,Campus Gragoatá,10:00 - 12:00,Campus Gragoatá,Reitoria,14:00 - 16:00,Reitoria,HU Antônio Pedro,18:00 - 20:00,HU Antônio Pedro,Reitoria
+,,,06:00 - 08:00,Instituto Biomédico,Campus Valonguinho,08:00 - 10:00,Faculdade de Direito,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,06:00 - 08:00,Reitoria,Campus Valonguinho,12:00 - 14:00,Campus Valonguinho,Reitoria,14:00 - 16:00,Reitoria,Campus Gragoatá,18:00 - 20:00,Instituto Biomédico,Reitoria
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,HU Antônio Pedro,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,16:00 - 18:00,Campus Gragoatá,HU Antônio Pedro,10:00 - 12:00,Faculdade de Veterinária,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Faculdade de Veterinária,,,,,,,,,,,,
+,,,06:00 - 08:00,Faculdade de Direito,Instituto Biomédico,12:00 - 14:00,Faculdade de Direito,HU Antônio Pedro,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Valonguinho,,,,,,,,,,,,
+,,,08:00 - 10:00,Campus Valonguinho,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Reitoria,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,18:00 - 20:00,Campus Gragoatá,IACS,18:00 - 20:00,Campus Gragoatá,IACS,,,,,,,,,,,,,,,,,,,,,
+,,,12:00 - 14:00,Campus Gragoatá,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,06:00 - 08:00,Campus Gragoatá,Campus Gragoatá,16:00 - 18:00,Campus Gragoatá,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Campus Gragoatá,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,14:00 - 16:00,Campus Gragoatá,HU Antônio Pedro,12:00 - 14:00,Campus Valonguinho,HU Antônio Pedro,12:00 - 14:00,HU Antônio Pedro,Campus Valonguinho,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Campus Praia Vermelha,Campus Valonguinho,14:00 - 16:00,Campus Valonguinho,Campus Valonguinho,16:00 - 18:00,Campus Praia Vermelha,Campus Valonguinho,20:00 - 22:00,Campus Valonguinho,Campus Praia Vermelha
+,,,12:00 - 14:00,Faculdade de Direito,Campus Gragoatá,20:00 - 22:00,Campus Gragoatá,Faculdade de Direito,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Campus Gragoatá,Campus Praia Vermelha,08:00 - 10:00,Campus Gragoatá,Campus Praia Vermelha,08:00 - 10:00,Campus Gragoatá,Campus Praia Vermelha,08:00 - 10:00,Campus Gragoatá,Campus Praia Vermelha
+10:00 - 12:00,Campus Praia Vermelha,Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,08:00 - 10:00,Campus Praia Vermelha,Campus Valonguinho,16:00 - 18:00,Campus Valonguinho,Faculdade de Direito,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,20:00 - 22:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,12:00 - 14:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),20:00 - 22:00,IACS,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,
+,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,08:00 - 10:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),18:00 - 20:00,Campus Gragoatá,Reitoria,,,,,,,,,,,,
+,,,16:00 - 18:00,Centro (Terminal rodoviário/Barcas),IACS,18:00 - 20:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,
+,,,14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,20:00 - 22:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas),,,,,,,,,,,,,,,,,,,,,
+,,,06:00 - 08:00,Campus Valonguinho,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,HU Antônio Pedro,Campus Praia Vermelha,18:00 - 20:00,HU Antônio Pedro,Campus Praia Vermelha,10:00 - 12:00,HU Antônio Pedro,Campus Praia Vermelha,10:00 - 12:00,Campus Praia Vermelha,Reitoria
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,HU Antônio Pedro,IACS,20:00 - 22:00,IACS,HU Antônio Pedro,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),IACS,20:00 - 22:00,IACS,Centro (Terminal rodoviário/Barcas)
+,,,08:00 - 10:00,Campus Valonguinho,Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Campus Valonguinho,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,20:00 - 22:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas),20:00 - 22:00,Campus Valonguinho,Centro (Terminal rodoviário/Barcas),20:00 - 22:00,IACS,Centro (Terminal rodoviário/Barcas),20:00 - 22:00,Campus Praia Vermelha,Centro (Terminal rodoviário/Barcas)
+,,,,,,,,,,,,,,,,,,08:00 - 10:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,10:00 - 12:00,Centro (Terminal rodoviário/Barcas),Campus Praia Vermelha,16:00 - 18:00,Campus Praia Vermelha,Campus Gragoatá,18:00 - 20:00,Campus Gragoatá,Centro (Terminal rodoviário/Barcas)
+14:00 - 16:00,Centro (Terminal rodoviário/Barcas),Campus Gragoatá,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18:00 - 20:00,Centro (Terminal rodoviário/Barcas),IACS,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

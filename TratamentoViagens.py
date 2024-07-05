@@ -3,7 +3,7 @@ import re
 
 class DataCleaner:
     @staticmethod
-    def starts_with_number(s):
+    def comeca_com_numero(s):
         return str(s)[0].isdigit() if pd.notnull(s) else False
 
     @staticmethod
@@ -18,10 +18,10 @@ class DataCleaner:
         self.df = pd.read_csv(csvOrigem)
 
     def selecionar_colunas_validas(self):
-        colunas_validas = [col for col in self.df.columns if DataCleaner.starts_with_number(col)]
+        colunas_validas = [col for col in self.df.columns if DataCleaner.comeca_com_numero(col)]
         self.df = self.df[colunas_validas]
 
-    def salvar_csv_tratado(self, output_path='outputs\Mobilidade_Elétrica_Niterói_Tratado.csv'):
+    def salvar_csv_tratado(self, output_path='outputs\Mobilidade_Elétrica_Niterói_Filtrado_Viagens.csv'):
         self.df.to_csv(output_path, index=False)
 
 class DataFormatter:
@@ -56,7 +56,7 @@ class DataProcessor:
         cleaner.selecionar_colunas_validas()
         cleaner.salvar_csv_tratado()
 
-        formatter = DataFormatter('outputs\Mobilidade_Elétrica_Niterói_Tratado.csv')
+        formatter = DataFormatter('outputs\Mobilidade_Elétrica_Niterói_Filtrado_Viagens.csv')
         formatter.formatar_dados()
         formatter.salvar_csv_formatado()
 

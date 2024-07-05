@@ -1,0 +1,351 @@
+"Como você se locomove entre os campi?
+
+Observação: Se você utiliza o transporte público não vinculado a UFF, como por exemplo a linha de ônibus 47, marque a opção ônibus convencional."
+""
+Andando
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.)"
+Andando;BusUFF;Ônibus convencional
+Andando
+Andando;Ônibus convencional
+Andando;BusUFF
+""
+Andando
+Carro/Moto
+Andando;Carro/Moto;Ônibus convencional
+Andando;Bicicleta/Skate/Patinete
+Ônibus convencional
+Andando;Ônibus convencional
+Andando
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Carro/Moto;Ônibus convencional"
+""
+Andando;Bicicleta/Skate/Patinete;Ônibus convencional
+""
+Andando;Ônibus convencional
+Andando;BusUFF;Ônibus convencional
+Andando;Bicicleta/Skate/Patinete
+""
+""
+BusUFF
+Andando;Bicicleta/Skate/Patinete;Ônibus convencional
+Andando
+""
+""
+Andando;BusUFF;Ônibus convencional
+""
+""
+""
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete;Ônibus convencional"
+Andando;Ônibus convencional
+Andando;BusUFF;Carro/Moto;Ônibus convencional
+Andando;Ônibus convencional
+Andando
+""
+Ônibus convencional
+Bicicleta/Skate/Patinete
+Andando;BusUFF;Ônibus convencional
+Andando;Ônibus convencional
+Andando;Bicicleta/Skate/Patinete;BusUFF;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+Andando;BusUFF;Ônibus convencional
+Andando;Carro/Moto
+Andando;BusUFF;Ônibus convencional
+""
+Andando;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Carro/Moto;Ônibus convencional"
+"Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete;Ônibus convencional"
+"Aplicativo de transporte (Uber,99taxi, etc.)"
+Andando;Carro/Moto
+Carro/Moto;Ônibus convencional
+Andando
+Carro/Moto
+Andando;BusUFF;Ônibus convencional
+Andando;BusUFF;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Carro/Moto;Ônibus convencional"
+Andando;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+Ônibus convencional
+Andando;BusUFF;Carro/Moto;Ônibus convencional
+""
+Andando;Ônibus convencional
+""
+Carro/Moto
+Andando
+Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+""
+""
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+""
+Andando
+Andando;BusUFF;Ônibus convencional
+""
+""
+Carro/Moto
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+Andando;BusUFF;Ônibus convencional
+""
+Andando;Ônibus convencional
+""
+Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+Andando;BusUFF;Ônibus convencional
+Andando;Ônibus convencional
+""
+Andando;Ônibus convencional
+Ônibus convencional
+""
+Andando
+Andando;BusUFF
+""
+""
+Andando;BusUFF
+Andando;BusUFF;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF"
+""
+""
+Andando;BusUFF;Ônibus convencional
+""
+Andando;BusUFF
+""
+""
+""
+""
+Andando
+Carro/Moto
+""
+Andando;Ônibus convencional
+Ônibus convencional
+Andando;Carro/Moto
+Andando;BusUFF
+Andando
+""
+BusUFF;Ônibus convencional
+Ônibus convencional
+Andando;Ônibus convencional
+Andando;Ônibus convencional
+Andando
+Andando;BusUFF
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+""
+Andando;Ônibus convencional
+Ônibus convencional
+""
+Ônibus convencional
+Ônibus convencional
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.)"
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete;BusUFF;Carro/Moto;Ônibus convencional"
+Andando;Bicicleta/Skate/Patinete;BusUFF;Ônibus convencional
+Andando;Ônibus convencional
+""
+Andando;Ônibus convencional
+Andando;Ônibus convencional
+Andando;BusUFF;Ônibus convencional
+Andando;BusUFF;Ônibus convencional
+Andando;Ônibus convencional
+Andando;BusUFF
+Andando;BusUFF
+Andando;Ônibus convencional
+""
+Ônibus convencional
+Andando;BusUFF;Ônibus convencional
+Andando
+Bicicleta/Skate/Patinete
+""
+Andando;Bicicleta/Skate/Patinete;BusUFF;Ônibus convencional
+Andando
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+""
+BusUFF
+Andando;BusUFF
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+Andando
+Andando;Ônibus convencional
+Andando
+Andando;Bicicleta/Skate/Patinete;Ônibus convencional
+Andando
+Andando;BusUFF;Ônibus convencional
+Andando;BusUFF
+Andando;BusUFF;Ônibus convencional
+Andando
+Andando;Ônibus convencional
+""
+""
+Andando;BusUFF
+Andando;BusUFF
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete;Ônibus convencional"
+""
+Andando;Ônibus convencional
+Andando;Carro/Moto
+Andando;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete;Ônibus convencional"
+Andando;BusUFF;Ônibus convencional
+""
+Andando;BusUFF;Ônibus convencional
+Andando
+Andando;BusUFF;Ônibus convencional
+""
+Andando;BusUFF;Ônibus convencional
+Andando;BusUFF;Carro/Moto
+Andando;BusUFF
+Andando;Ônibus convencional
+""
+Andando
+Andando;Ônibus convencional
+""
+""
+""
+""
+Andando
+""
+""
+Bicicleta/Skate/Patinete
+Andando;BusUFF;Ônibus convencional
+""
+Ônibus convencional
+Andando;Ônibus convencional
+Ônibus convencional
+Andando;BusUFF
+Carro/Moto
+Andando
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+Andando;BusUFF;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+BusUFF
+""
+Andando
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete"
+Andando;Bicicleta/Skate/Patinete
+Andando
+Andando
+""
+""
+Andando
+Andando;BusUFF;Ônibus convencional
+""
+""
+BusUFF;Ônibus convencional
+""
+Andando;Ônibus convencional
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+Carro/Moto
+Bicicleta/Skate/Patinete
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Carro/Moto;Ônibus convencional"
+Andando;BusUFF;Carro/Moto;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+BusUFF
+""
+Carro/Moto
+Andando;Ônibus convencional
+"Aplicativo de transporte (Uber,99taxi, etc.)"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.)"
+Andando;Ônibus convencional
+Andando;BusUFF
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Carro/Moto;Ônibus convencional"
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.)"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+""
+""
+Andando;BusUFF;Ônibus convencional
+Andando
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete"
+Ônibus convencional
+""
+Andando;BusUFF;Ônibus convencional
+"Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete"
+""
+Andando
+""
+""
+Andando;BusUFF
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+Andando;BusUFF;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+Andando;BusUFF;Ônibus convencional
+""
+""
+Andando;Ônibus convencional
+Andando;BusUFF;Ônibus convencional
+Bicicleta/Skate/Patinete
+"Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+""
+Bicicleta/Skate/Patinete
+""
+Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+Bicicleta/Skate/Patinete
+""
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF"
+Andando;BusUFF
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+BusUFF
+Andando;Bicicleta/Skate/Patinete;Ônibus convencional
+Andando;BusUFF
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);BusUFF;Ônibus convencional"
+Andando;Carro/Moto
+Andando;BusUFF;Ônibus convencional
+""
+""
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Ônibus convencional"
+Andando;BusUFF
+Andando;BusUFF;Ônibus convencional
+""
+""
+""
+""
+Andando;BusUFF;Ônibus convencional
+"Andando;Aplicativo de transporte (Uber,99taxi, etc.);Bicicleta/Skate/Patinete;Carro/Moto;Ônibus convencional"
+Andando;BusUFF;Ônibus convencional
+Andando;BusUFF
+Andando;BusUFF
+Andando;BusUFF
+Andando
+Andando
+""
+""
+Andando
+BusUFF
+Andando;Ônibus convencional
+Andando
+Andando
+Andando;Ônibus convencional
+Andando;BusUFF
+""

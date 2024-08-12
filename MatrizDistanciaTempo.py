@@ -2,16 +2,16 @@ import requests
 import csv
 
 estacoes = {
-    "Praca Arariboia": (-22.8973, -43.1246),
-    "Estacao das Barcas Charitas": (-22.9262, -43.0972),
-    "UFF - Campus Valonguinho": (-22.8949, -43.1266),
-    "Praia de Icarai": (-22.9053, -43.1114),
-    "Terminal Rodoviario Joao Goulart": (-22.8993, -43.1216),
-    "Praia de Sao Francisco": (-22.9245, -43.0970),
-    "Museu de Arte Contemporanea (MAC)": (-22.9056, -43.1352),
-    "Santa Rosa": (-22.9092, -43.1108),
-    "UFF - Campus Praia Vermelha": (-22.9307, -43.1669),
-    "UFF - Campus Gragoata": (-22.8987, -43.1244),
+    "Praca Arariboia": (-22.895631838467075, -43.124899960635375),
+    "Estacao das Barcas Charitas": (-22.932304595900444, -43.09928328774055),
+    "UFF - Campus Valonguinho": (-22.896405514258564, -43.12563537779726),
+    "Praia de Icarai": (-22.907545758498568, -43.11204286551062),
+    "Terminal Rodoviario Joao Goulart": (-22.890036515681363, -43.12588182378228),
+    "Praia de Sao Francisco": (-22.91811262505584, -43.09448110941094),
+    "Museu de Arte Contemporanea (MAC)": (-22.90733073016797, -43.126150379425006),
+    "Santa Rosa": (-22.898919136366207, -43.09838055462202),
+    "UFF - Campus Praia Vermelha": (-22.903761658709644, -43.130206268244464),
+    "UFF - Campus Gragoata": (-22.89918236796127, -43.13071039109646),
 }
 
 velocidade_media = 20

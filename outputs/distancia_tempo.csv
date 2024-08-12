@@ -1,0 +1,91 @@
+Origem,Destino,Distancia (km),Tempo de Viagem (h)
+Praca Arariboia,Estacao das Barcas Charitas,6.09,0.3
+Praca Arariboia,UFF - Campus Valonguinho,0.5,0.03
+Praca Arariboia,Praia de Icarai,2.94,0.15
+Praca Arariboia,Terminal Rodoviario Joao Goulart,2.0,0.1
+Praca Arariboia,Praia de Sao Francisco,5.9,0.3
+Praca Arariboia,Museu de Arte Contemporanea (MAC),1.89,0.09
+Praca Arariboia,Santa Rosa,3.46,0.17
+Praca Arariboia,UFF - Campus Praia Vermelha,26.32,1.32
+Praca Arariboia,UFF - Campus Gragoata,0.7,0.03
+Estacao das Barcas Charitas,Praca Arariboia,7.54,0.38
+Estacao das Barcas Charitas,UFF - Campus Valonguinho,8.04,0.4
+Estacao das Barcas Charitas,Praia de Icarai,5.74,0.29
+Estacao das Barcas Charitas,Terminal Rodoviario Joao Goulart,7.19,0.36
+Estacao das Barcas Charitas,Praia de Sao Francisco,2.8,0.14
+Estacao das Barcas Charitas,Museu de Arte Contemporanea (MAC),8.96,0.45
+Estacao das Barcas Charitas,Santa Rosa,5.1,0.26
+Estacao das Barcas Charitas,UFF - Campus Praia Vermelha,30.95,1.55
+Estacao das Barcas Charitas,UFF - Campus Gragoata,7.49,0.37
+UFF - Campus Valonguinho,Praca Arariboia,2.15,0.11
+UFF - Campus Valonguinho,Estacao das Barcas Charitas,7.29,0.36
+UFF - Campus Valonguinho,Praia de Icarai,3.64,0.18
+UFF - Campus Valonguinho,Terminal Rodoviario Joao Goulart,2.67,0.13
+UFF - Campus Valonguinho,Praia de Sao Francisco,7.09,0.35
+UFF - Campus Valonguinho,Museu de Arte Contemporanea (MAC),2.01,0.1
+UFF - Campus Valonguinho,Santa Rosa,3.83,0.19
+UFF - Campus Valonguinho,UFF - Campus Praia Vermelha,27.73,1.39
+UFF - Campus Valonguinho,UFF - Campus Gragoata,2.1,0.11
+Praia de Icarai,Praca Arariboia,2.41,0.12
+Praia de Icarai,Estacao das Barcas Charitas,3.73,0.19
+Praia de Icarai,UFF - Campus Valonguinho,2.91,0.15
+Praia de Icarai,Terminal Rodoviario Joao Goulart,2.06,0.1
+Praia de Icarai,Praia de Sao Francisco,3.54,0.18
+Praia de Icarai,Museu de Arte Contemporanea (MAC),3.83,0.19
+Praia de Icarai,Santa Rosa,1.04,0.05
+Praia de Icarai,UFF - Campus Praia Vermelha,26.59,1.33
+Praia de Icarai,UFF - Campus Gragoata,2.36,0.12
+Terminal Rodoviario Joao Goulart,Praca Arariboia,0.35,0.02
+Terminal Rodoviario Joao Goulart,Estacao das Barcas Charitas,6.44,0.32
+Terminal Rodoviario Joao Goulart,UFF - Campus Valonguinho,0.85,0.04
+Terminal Rodoviario Joao Goulart,Praia de Icarai,3.29,0.16
+Terminal Rodoviario Joao Goulart,Praia de Sao Francisco,6.25,0.31
+Terminal Rodoviario Joao Goulart,Museu de Arte Contemporanea (MAC),2.24,0.11
+Terminal Rodoviario Joao Goulart,Santa Rosa,2.93,0.15
+Terminal Rodoviario Joao Goulart,UFF - Campus Praia Vermelha,26.68,1.33
+Terminal Rodoviario Joao Goulart,UFF - Campus Gragoata,0.3,0.01
+Praia de Sao Francisco,Praca Arariboia,6.47,0.32
+Praia de Sao Francisco,Estacao das Barcas Charitas,0.19,0.01
+Praia de Sao Francisco,UFF - Campus Valonguinho,6.96,0.35
+Praia de Sao Francisco,Praia de Icarai,4.66,0.23
+Praia de Sao Francisco,Terminal Rodoviario Joao Goulart,6.11,0.31
+Praia de Sao Francisco,Museu de Arte Contemporanea (MAC),7.88,0.39
+Praia de Sao Francisco,Santa Rosa,4.03,0.2
+Praia de Sao Francisco,UFF - Campus Praia Vermelha,29.88,1.49
+Praia de Sao Francisco,UFF - Campus Gragoata,6.42,0.32
+Museu de Arte Contemporanea (MAC),Praca Arariboia,2.5,0.12
+Museu de Arte Contemporanea (MAC),Estacao das Barcas Charitas,6.54,0.33
+Museu de Arte Contemporanea (MAC),UFF - Campus Valonguinho,2.16,0.11
+Museu de Arte Contemporanea (MAC),Praia de Icarai,2.89,0.14
+Museu de Arte Contemporanea (MAC),Terminal Rodoviario Joao Goulart,2.14,0.11
+Museu de Arte Contemporanea (MAC),Praia de Sao Francisco,6.34,0.32
+Museu de Arte Contemporanea (MAC),Santa Rosa,3.08,0.15
+Museu de Arte Contemporanea (MAC),UFF - Campus Praia Vermelha,28.03,1.4
+Museu de Arte Contemporanea (MAC),UFF - Campus Gragoata,2.45,0.12
+Santa Rosa,Praca Arariboia,2.44,0.12
+Santa Rosa,Estacao das Barcas Charitas,3.45,0.17
+Santa Rosa,UFF - Campus Valonguinho,2.94,0.15
+Santa Rosa,Praia de Icarai,0.63,0.03
+Santa Rosa,Terminal Rodoviario Joao Goulart,2.09,0.1
+Santa Rosa,Praia de Sao Francisco,3.26,0.16
+Santa Rosa,Museu de Arte Contemporanea (MAC),3.86,0.19
+Santa Rosa,UFF - Campus Praia Vermelha,27.23,1.36
+Santa Rosa,UFF - Campus Gragoata,2.39,0.12
+UFF - Campus Praia Vermelha,Praca Arariboia,24.48,1.22
+UFF - Campus Praia Vermelha,Estacao das Barcas Charitas,27.82,1.39
+UFF - Campus Praia Vermelha,UFF - Campus Valonguinho,24.98,1.25
+UFF - Campus Praia Vermelha,Praia de Icarai,24.66,1.23
+UFF - Campus Praia Vermelha,Terminal Rodoviario Joao Goulart,25.0,1.25
+UFF - Campus Praia Vermelha,Praia de Sao Francisco,27.63,1.38
+UFF - Campus Praia Vermelha,Museu de Arte Contemporanea (MAC),25.72,1.29
+UFF - Campus Praia Vermelha,Santa Rosa,25.19,1.26
+UFF - Campus Praia Vermelha,UFF - Campus Gragoata,24.43,1.22
+UFF - Campus Gragoata,Praca Arariboia,1.82,0.09
+UFF - Campus Gragoata,Estacao das Barcas Charitas,6.08,0.3
+UFF - Campus Gragoata,UFF - Campus Valonguinho,1.7,0.08
+UFF - Campus Gragoata,Praia de Icarai,2.44,0.12
+UFF - Campus Gragoata,Terminal Rodoviario Joao Goulart,1.47,0.07
+UFF - Campus Gragoata,Praia de Sao Francisco,5.89,0.29
+UFF - Campus Gragoata,Museu de Arte Contemporanea (MAC),2.14,0.11
+UFF - Campus Gragoata,Santa Rosa,2.63,0.13
+UFF - Campus Gragoata,UFF - Campus Praia Vermelha,27.58,1.38

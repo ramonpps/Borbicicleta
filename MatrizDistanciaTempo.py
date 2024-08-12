@@ -23,7 +23,7 @@ for origem_nome, origem_coords in estacoes.items():
             origem_str = f"{origem_coords[1]},{origem_coords[0]}"
             destino_str = f"{destino_coords[1]},{destino_coords[0]}"
             
-            url = f"http://router.project-osrm.org/route/v1/driving/{origem_str};{destino_str}?overview=false"
+            url = f"http://router.project-osrm.org/route/v1/cycling/{origem_str};{destino_str}?overview=false"
             
             response = requests.get(url)
             data = response.json()
